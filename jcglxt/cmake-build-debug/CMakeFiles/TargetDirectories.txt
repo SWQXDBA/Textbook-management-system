@@ -1,0 +1,3 @@
+C:/Users/SWQXDBA/CLionProjects/jcglxt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/SWQXDBA/CLionProjects/jcglxt/cmake-build-debug/CMakeFiles/jcglxt.dir
+C:/Users/SWQXDBA/CLionProjects/jcglxt/cmake-build-debug/CMakeFiles/edit_cache.dir

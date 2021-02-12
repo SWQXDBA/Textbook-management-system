@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SWQXDBA/CLionProjects/jcglxt/coursebooks.cpp
+heads.h
+C:/Users/SWQXDBA/CLionProjects/jcglxt/heads.h
+
+C:/Users/SWQXDBA/CLionProjects/jcglxt/heads.h
+string
+-
+iostream
+-
+fstream
+-
+cstdlib
+-
+cstring
+-
+
+C:/Users/SWQXDBA/CLionProjects/jcglxt/main.cpp
+heads.h
+C:/Users/SWQXDBA/CLionProjects/jcglxt/heads.h
+
